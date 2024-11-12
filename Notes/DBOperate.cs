@@ -13,7 +13,7 @@ namespace Notes
 {
     public class DBOperate
     {
-        private static string StrConnectionString= "Server=cloud2.wxcsxy.top;Port=33060;UserId=root;Password=equipment@SSD;Database=exam";
+        private static string StrConnectionString= "Server=XXX;Port=XX;UserId=XX;Password=XX;Database=XX";
         public DBOperate() { 
 
         }
